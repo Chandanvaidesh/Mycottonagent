@@ -1,0 +1,1 @@
+pip install streamlit langchain langchain-qdrant qdrant-client sentence-transformers openai
