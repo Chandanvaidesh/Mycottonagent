@@ -1,6 +1,6 @@
 The vector store data is provided for convenience. Download the Qdrant database from:
 
-[Download Qdrant Data] https://drive.google.com/drive/folders/1BM93HdH4sfNA8loLKutWj5CViV-G2rfh?usp=drive_link
+[Download Qdrant Data] https://drive.google.com/drive/folders/1f1juRRCxKU6ieOhs1XTZ8ZwWZxLs7Zju?usp=drive_link
 
 ### Steps to Run the App
 1. **Install Qdrant locally** (binary version for Windows/Linux):  
